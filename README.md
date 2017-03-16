@@ -1,4 +1,6 @@
-# SPA
+# Comic Application
+
+Aplicacion basica en Angular(Angular 2), utilizando routing.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
 
